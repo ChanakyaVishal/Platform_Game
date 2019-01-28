@@ -35,6 +35,12 @@ just reach a higher point with the same speed).
 4. Magnet: The player’s path needs to be influenced by the magnet. Assume magnet
 causes a constant attractive force in its direction.
 
+Setup Game:
+============
+Run the following commands on your terminal.
+`cmake`
+`make`
+
 Controls:
 ============
 	A - Left
